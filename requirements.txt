@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+google-api-python-client
+python-dotenv
+jupyter
+streamlit

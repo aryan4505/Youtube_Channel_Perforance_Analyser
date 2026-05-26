@@ -1,0 +1,15 @@
+
+YouTube Analysis Report
+=======================
+
+Total Videos:
+50
+
+Average Views:
+296938.42
+
+Average Likes:
+732.16
+
+Most Viewed Video:
+Google I/O 2026 Developer Keynote Recap
