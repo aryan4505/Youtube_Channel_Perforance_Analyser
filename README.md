@@ -1,5 +1,7 @@
 # YouTube Channel Performance Analyzer
 
+[Live Demo](https://your-app-name.streamlit.app)
+
 ## Project Overview
 
 A data analytics project that analyzes YouTube channel performance using the YouTube Data API v3.
