@@ -1,6 +1,6 @@
 # YouTube Channel Performance Analyzer
 
-[Live Demo](https://your-app-name.streamlit.app)
+[Live Demo](https://aryan4505-youtube-channel-perforance-analyser-dashboard-x97rni.streamlit.app/)
 
 ## Project Overview
 
